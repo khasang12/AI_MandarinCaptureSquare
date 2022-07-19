@@ -15,14 +15,8 @@ This Algorithm produced significant good results, with the victory rate of almos
 
 [NB Network](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) is one of the oldest ML Alg ever used in game solver. Initially, we didn't have high expectations for this technique as it was purposely wrong (as you may know, NB is prevalent for Classification problems :v). However, the results came out as not bad as we expected (70% winning matches). 
 
-For ML Algs, the difficulty of Agent is definitely based on the quantity and quality of the dataset records. In this Assignment, we had collected datasets of 1000 and 5000 matches, which were played by 2 Random agents and 2 NB agents.
+For ML Algs, the difficulty of Agent is definitely based on the quantity and quality of the dataset records. In this Assignment, we had collected datasets of 1000 and 5000 matches produced by 2 Random agents and 2 NB agents.
 
-# Requirements:
-
-* pygame
-* numpy
-* tkinter
-* pandas
 
 # Tech Stack:
 
